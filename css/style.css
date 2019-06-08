@@ -462,6 +462,10 @@ h3.section-title , .section-right h3.section-title, .section-wrapper h3.section-
   min-height: 100%;
   min-height: 100vh;
 }
+
+.experiencia a{
+  color:white;
+}
 @media (max-width: 850px) {
   .experiencia {
     width: 100%;
